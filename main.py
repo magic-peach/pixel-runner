@@ -102,7 +102,7 @@ test_font = pygame.font.Font(None, 50)
 game_active = False
 start_time = 0
 score = 0
-bg_music = pygame.mixer.Sound('assets/music.wav')
+bg_music = pygame.mixer.Sound('assets/twice_fancy.mp3')
 bg_music.play(loops = -1)
 
 #Groups
